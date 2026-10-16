@@ -4,4 +4,9 @@
     background-color: #fff;
     display: flex;
     flex-direction: column;
+    .homeContentContainer{
+        display: flex;
+        flex: 1;
+        /* background-color: red; */
+    }
 }
